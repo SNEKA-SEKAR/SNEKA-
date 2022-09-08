@@ -1,0 +1,8 @@
+<customer>
+	<name>sneka</name>
+	<state>TamilNadu</state>
+	<city>Erode</city>
+
+	<age>21</age>
+        <street>Main Street</street>
+</customer>
